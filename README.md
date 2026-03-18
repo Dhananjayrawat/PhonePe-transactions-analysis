@@ -29,3 +29,15 @@ Most active state: Uttar Pradesh (75 districts)
 Top performing states: Maharashtra, Karnataka, and Andhra Pradesh show the highest transaction volumes
 Clear growth trajectory from 2018-2021 across most states
 
+Transaction Patterns:
+Consistent upward trends in transaction volume over time
+State-wise variations in adoption rates
+Quarter-to-quarter fluctuations indicating seasonal patterns
+
+Visualizations Included:
+Transaction trends by state across years
+State-wise performance comparisons
+Device brand distribution
+District-level transaction analysis
+Temporal patterns (quarterly trends)
+
